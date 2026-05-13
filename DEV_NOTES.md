@@ -16,3 +16,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-13
 - Added basic retry logic for network requests
 - Verified API endpoint response schema
+
+## 2026-05-13
+- Improved log message formatting
+- Reviewed security headers configuration
+- Reorganised test fixtures
